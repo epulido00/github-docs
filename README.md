@@ -41,7 +41,9 @@
 
 ### Pasos para guardar cambios
 1- `git add .`
+
 2- `git commit -m "<razon>"`
+
 3- `git push <origin> <branch>`
 
 ### Actualizar arbol de trabajo y crear branch en computadora que se encuentra en github
@@ -54,5 +56,7 @@
 > Como ejemplo: Cuando tenemos 2 branches main y development, hicimos cambios en main cuando se necesitaban en development
 
 1- `git stash` -> Este para guardar los cambios que se hicieron en la branch
+
 2- `git checkout <branch>` -> Cambiamos de branch
+	
 3- `git stasth apply` -> Ya estando en la branch que necesitamos agrega los cambios guardados del stash
