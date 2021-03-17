@@ -1,17 +1,22 @@
 # Comandos git
 **Es para agregar todos los archivos que se cambiaron**
+
 `git add .`
 
 **Es para agregar razon de actualizacion y push**
+
 `git commit -m "<razon, descripcion del cambio>"`
 
 **Es para agregar a github los cambios**
+
 `git push <origin> <branch>`
 
 **Traer todos los cambios que se hicieron de la rama actual**
+
 `git pull <origin> <branch>`
 
 **Es para ver que branches existen dentro de tu git y en cual estas trabajando**
+
 `git branch`
 
 **Actualizar todo el arbol de trabajo**
