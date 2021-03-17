@@ -59,4 +59,4 @@
 
 2- `git checkout <branch>` -> Cambiamos de branch
 	
-3- `git stasth apply` -> Ya estando en la branch que necesitamos agrega los cambios guardados del stash
+3- `git stash apply` -> Ya estando en la branch que necesitamos agrega los cambios guardados del stash
