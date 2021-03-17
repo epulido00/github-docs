@@ -15,18 +15,25 @@
 `git branch`
 
 **Actualizar todo el arbol de trabajo**
+
 `git fetch --all`
 
 **Traer branch creada en github a tu computadora**
+
 `git checkout -t <origin>/<branch>`
 
 **Cambiar de branch en tu computadora**
+
 `git checkout <branch>`
 
 **Para ver el status de tu commit (Que archivos se cambiaron, cuales se agregaron y cuales no con el .gitignore)**
+
 `git status`
+
 ---
+
 ## Ejemplos
+
 ### Pasos para guardar cambios
 1- `git add .`
 2- `git commit -m "<razon>"`
